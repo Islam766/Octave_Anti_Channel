@@ -12,11 +12,8 @@ With the latest update of Telegram, users are spamming chat by sending messages 
 You can even Unban a channel with ```/unban``` command, if you choose so.
 
 # Deploy 
-<p>
-<a href="https://heroku.com/deploy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
- </p>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anonymouscoderboy/Octave_Anti_Channel)
 
 ## Telegram Support
 You can report bugs and suggest updates at our
