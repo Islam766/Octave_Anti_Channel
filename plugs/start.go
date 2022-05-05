@@ -28,7 +28,7 @@ spams your chat!
 				ParseMode: "markdown",
 				ReplyMarkup: gotgbot.InlineKeyboardMarkup{
 					InlineKeyboard: [][]gotgbot.InlineKeyboardButton{{
-						{Text: "My Source Code", Url: "github.com/Reeshuxd/ChannelBot"},
+						{Text: "My Source Code", Url: "https://github.com/Anonymouscoderboy/Octave_Anti_Channel"},
 					}},
 				},
 			},
