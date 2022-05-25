@@ -28,7 +28,7 @@ spams your chat!
 				ParseMode: "markdown",
 				ReplyMarkup: gotgbot.InlineKeyboardMarkup{
 					InlineKeyboard: [][]gotgbot.InlineKeyboardButton{{
-						{Text: "Octave_Updates", Url: "https://t.me/Octave_support"},
+						{Text: "Octave_Updates", Url: "https://t.me/IsIam07"},
 					}},
 				},
 			},
