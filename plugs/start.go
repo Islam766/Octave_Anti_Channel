@@ -7,12 +7,12 @@ import (
 
 func Start(bot *gotgbot.Bot, ctx *ext.Context) error {
 	var MSG string = `
-*Hello, I am 𝙊𝙘𝙩𝙖𝙫𝙚 𝘼𝙣𝙩𝙞 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 spam
+*Hello, I am BORZ 𝘼𝙣𝙩𝙞 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 spam
 detector bot*.
 I can ban the channels which
 spams your chat!
 
-*(c) @Octave_support*
+*(c) @muharibun07*
 	`
 	if ctx.EffectiveChat.Type != "private" {
 		ctx.EffectiveMessage.Reply(
